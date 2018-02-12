@@ -1,0 +1,12 @@
+.langelis {
+	width: 20px;
+	height: 20px;
+	border: 1px solid black;
+	float: left;
+
+}
+.pazymetas {
+	border: 2px dotted yellow;
+	width: 18px;
+	height: 18px;
+}
